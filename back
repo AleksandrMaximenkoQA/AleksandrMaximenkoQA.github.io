@@ -1,0 +1,52 @@
+[33mcommit c7188bd7414bda9b731de88525dd9b2f777e9462[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mфото[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Maximen <maksimen94@yandex.ru>
+Date:   Mon Apr 22 00:48:13 2024 +0800
+
+    добавил ямл2
+
+[33mcommit f0ea93eaf8e3155bf9e95aebf0b2f070427fea1b[m
+Author: Maximen <maksimen94@yandex.ru>
+Date:   Mon Apr 22 00:29:29 2024 +0800
+
+    добавил ямл
+
+[33mcommit f71a555f0e5fa8928a2fda1b1d473a8ffb6fdb5c[m
+Merge: d30c81d a967583
+Author: AleksandrMaximenkoQA <160017892+AleksandrMaximenkoQA@users.noreply.github.com>
+Date:   Sun Apr 21 14:40:50 2024 +0800
+
+    Merge pull request #1 from AleksandrMaximenkoQA/new_branch
+    
+    Добавил эмодзи
+
+[33mcommit a9675837a7fedfb3b500a3ad984cb3eda8777383[m[33m ([m[1;31morigin/new_branch[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: Maximen <maksimen94@yandex.ru>
+Date:   Sun Apr 21 14:39:01 2024 +0800
+
+    Добавил эмодзи
+
+[33mcommit d30c81d7e2914dabfd8092cf60d5251ca443bbb7[m
+Author: AleksandrMaximenkoQA <160017892+AleksandrMaximenkoQA@users.noreply.github.com>
+Date:   Sat Apr 13 16:00:06 2024 +0800
+
+    index.html
+
+[33mcommit 39e2b0e9e618cf091a0b56fe55d8892af0bf0744[m
+Author: AleksandrMaximenkoQA <160017892+AleksandrMaximenkoQA@users.noreply.github.com>
+Date:   Sat Apr 13 15:57:11 2024 +0800
+
+    README.md
+
+[33mcommit 41b6e29cff30490742b38333dfd300f63bc6095c[m
+Author: AleksandrMaximenkoQA <160017892+AleksandrMaximenkoQA@users.noreply.github.com>
+Date:   Sat Apr 13 15:55:26 2024 +0800
+
+    AleksandrMaximenkoQA.github.io
+    
+    AleksandrMaximenkoQA.github.io
+
+[33mcommit a8a530b51fad862f2c5b90cd5785377d19928382[m
+Author: AleksandrMaximenkoQA <160017892+AleksandrMaximenkoQA@users.noreply.github.com>
+Date:   Sat Apr 13 15:47:36 2024 +0800
+
+    Initial commit
